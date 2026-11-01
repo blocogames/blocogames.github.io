@@ -12,10 +12,8 @@ blokkari/privacy.html
 
 ## Before publishing
 
-Fill in the placeholders: `grep -rn "CONTACT_EMAIL\|EFFECTIVE_DATE" .`
+Contact email: danielserva+blocogames@gmail.com. Privacy policy effective date: November 1, 2026 (update it whenever the policy changes).
 
-- `CONTACT_EMAIL`: an address you'll answer. Google Play requires a contact email, and it appears on your store listing too. A dedicated address is a good idea.
-- `EFFECTIVE_DATE`: the day you publish the policy.
 - `app-ads.txt`: replace its contents with the line AdMob gives you.
 
 ## Publishing
