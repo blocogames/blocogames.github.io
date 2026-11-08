@@ -12,7 +12,7 @@ blokkari/privacy.html
 
 ## Before publishing
 
-Contact email: danielserva+blocogames@gmail.com. Privacy policy effective date: November 1, 2026 (update it whenever the policy changes).
+Contact email: danielserva+blocogames@gmail.com. Privacy policy effective date: November 8, 2026 (update it whenever the policy changes).
 
 - `app-ads.txt`: replace its contents with the line AdMob gives you.
 
